@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aldimhernandez
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML, CSS and JS.
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS and JS
 - 📫 Find me on linkedin.com/in/maría-aldana-hernández
 
 <!---
