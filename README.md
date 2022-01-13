@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aldimhernandez
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning front-end technologies
+- 👀 I’m interested in Testing and Development 
+- 🌱 I’m currently learning testing and front-end technologies
 - 📫 Find me on linkedin.com/in/maría-aldana-hernández
 
 <!---
