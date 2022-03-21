@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aldimhernandez
 - 👀 I’m interested in Testing and Development 
-- 🌱 I’m currently learning testing and front-end technologies
+- 🌱 I’m currently learning testing and fullstack technologies
 - 📫 Find me on linkedin.com/in/maría-aldana-hernández
 
 <!---
