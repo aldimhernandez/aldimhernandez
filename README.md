@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aldimhernandez
+- 👋 Hi, I’m Aldi!
 - 👀 I’m interested in Testing and Development 
-- 🎨 I am a technician in multimedia arts.
-- 🌱 I am constantly learning about development technologies.
+- 🎨 I´m a technician in Multimedia Arts.
+- 🌱 I´m constantly learning about development technologies.
 - 📫 Find me on www.linkedin.com/in/marialdanahz/
 
 <!---
