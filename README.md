@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
   <br> 
   <img src="https://img.shields.io/badge/Test-BrowserStack-informational?style=flat&logo=browserstack&logoColor=white&color=e4e2dd"/>
   <br>
-  📝 También he explorado JMeter, Selenium WebDriver, Gatling y K6 en cursos o POCs, y planeo profundizarlos en futuros proyectos.
+  📝 También he explorado Appium, WebDriverIO, JMeter, Selenium WebDriver, Gatling y K6 en cursos o POCs, y planeo profundizarlos en futuros proyectos.
 </p>
 
 ⚙️ DevOps & CI/CD
