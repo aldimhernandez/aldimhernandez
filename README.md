@@ -5,6 +5,7 @@
 - 👀 I’m interested in Testing and Development 
 - 🎨 I´m a technician in Multimedia Arts.
 - 🌱 I´m constantly learning about development technologies.
+- 🧪 I'm currently taking a Playwright with TypeScript course from The Free Range Tester: https://www.udemy.com/course/dominando-playwright-con-typescript-e2e-testing-moderno
 
 <!---
 aldimhernandez/aldimhernandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
