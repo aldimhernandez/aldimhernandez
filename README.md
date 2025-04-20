@@ -5,7 +5,6 @@
 - 👀 I’m interested in Testing and Development 
 - 🎨 I´m a technician in Multimedia Arts.
 - 🌱 I´m constantly learning about development technologies.
-- 🧪 I'm currently taking a Playwright with TypeScript course from The Free Range Tester: https://www.udemy.com/course/dominando-playwright-con-typescript-e2e-testing-moderno
 
 <!---
 aldimhernandez/aldimhernandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,6 +45,7 @@ You can click the Preview link to take a look at your changes.
 🧪 Testing Tools
 <p> 
   <img src="https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=e4e2dd"/>
+  <img src="https://img.shields.io/badge/Test-Playwright-informational?style=flat&logo=playwright&logoColor=white&color=e4e2dd"/>
   <img src="https://img.shields.io/badge/Test-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=e4e2dd"/>
   <img src="https://img.shields.io/badge/Test-Gherkin-informational?style=flat&logo=gherkin&logoColor=white&color=e4e2dd"/>
   <br> 
