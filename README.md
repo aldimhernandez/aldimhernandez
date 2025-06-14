@@ -2,9 +2,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=black&color=e4e2dd)](https://www.linkedin.com/in/marialdanahz/)
 
 - 👋 Hi, I’m Aldi!
-- 👀 I’m interested in Testing and Development 
-- 🎨 I´m a technician in Multimedia Arts.
-- 🌱 I´m constantly learning about development technologies.
+- 👀 I’m interested in development and testing.
+- 🎓 Currently studying Programming Technician at UTN, Argentina.
+- 🕹️ Multimedia Arts Technician.
+- 🌱 Always learning and exploring new development technologies.
 
 <!---
 aldimhernandez/aldimhernandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
   <a href="https://github.com/aldimhernandez">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldimhernandez&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldimhernandez&hide=processing&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   </a>
 <br>
 <br>
@@ -30,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 Tech Stack
 
 🧑‍💻 Languages & Frameworks
+
 <p> 
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=e4e2dd"/> 
   <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=e4e2dd"/> 
@@ -43,6 +45,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 🧪 Testing Tools
+
 <p> 
   <img src="https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=e4e2dd"/>
   <img src="https://img.shields.io/badge/Test-Playwright-informational?style=flat&logo=playwright&logoColor=white&color=e4e2dd"/>
@@ -60,13 +63,14 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ⚙️ DevOps & CI/CD
+
 <p> 
   <img src="https://img.shields.io/badge/Platform-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=e4e2dd"/>
   <img src="https://img.shields.io/badge/Platform-OpenShift-informational?style=flat&logo=redhatopenshift&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/Platform-Azure_Boards-informational?style=flat&logo=azuredevops&logoColor=white&color=e4e2dd"/> 
 </p>
 
 🗂️ Project Management & Collaboration
+
 <p> 
   <img src="https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=jira&logoColor=white&color=e4e2dd"/>
   <img src="https://img.shields.io/badge/Tool-Trello-informational?style=flat&logo=trello&logoColor=white&color=e4e2dd"/>
@@ -77,6 +81,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 🗄️ Databases
+
 <p> 
   <img src="https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=e4e2dd"/>
   <img src="https://img.shields.io/badge/DB-Microsoft_SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=e4e2dd"/>
@@ -84,6 +89,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 🧰 Tools & Platforms
+
 <p> 
   <img src="https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=e4e2dd"/> 
   <img src="https://img.shields.io/badge/Tool-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=e4e2dd"/> 
@@ -98,6 +104,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 🧠 Knowledge & Concepts
+
 <p> 
   <img src="https://img.shields.io/badge/Methodology-Agile-informational?style=flat&logo=agile&logoColor=white&color=e4e2dd"/>
   <img src="https://img.shields.io/badge/Methodology-Scrum-informational?style=flat&logo=scrumalliance&logoColor=white&color=e4e2dd"/>
@@ -113,4 +120,3 @@ You can click the Preview link to take a look at your changes.
   <br> 
   <img src="https://img.shields.io/badge/Analytics-Google_Analytics-informational?style=flat&logo=googleanalytics&logoColor=white&color=e4e2dd"/> 
 </p>
-
