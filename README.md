@@ -10,7 +10,7 @@
 <!---
 aldimhernandez/aldimhernandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 <br>
 
 ## &#x1f4c8; GitHub Stats
@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <br>
+--->
 
 ## 🚀 Tech Stack
 
