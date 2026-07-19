@@ -89,33 +89,39 @@ https://github.com/aldimhernandez/appium-mobile-testing
 
 ---
 
-# 🛠 Core Expertise
+# 🛠 Technical Skills
 
-### Automation
+### Languages
+
+TypeScript • JavaScript • Java • Python
+
+### Test Automation
 
 Playwright • Cypress • API Testing • SQL • Cucumber • Gherkin
 
 ### Engineering
 
-TypeScript • JavaScript • Page Object Model • BDD • OOP • Design Patterns
+Page Object Model • BDD • OOP • Design Patterns
 
-### CI/CD
+### Version Control & CI/CD
 
-GitHub Actions • Git • GitHub
+Git • GitHub • GitHub Actions
 
-### Workflow
+### Project Management
 
-Azure DevOps Boards • Jira • Agile • Scrum
+Azure DevOps Boards • Jira
+
+### Methodologies
+
+Agile • Scrum
 
 ---
 
 # 🌱 Currently Learning
 
-- Software Architecture
-- Docker
-- Cloud & DevOps Fundamentals
-- Advanced Playwright
 - Programming Technician @ UTN
+- Artificial Intelligence for Software Development
+- Advanced Playwright
 
 ---
 
