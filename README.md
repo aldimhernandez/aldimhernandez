@@ -8,19 +8,9 @@ I have **4+ years of experience** designing automation frameworks, improving CI/
 
 Currently working with **Playwright, TypeScript, GitHub Actions, API Testing and SQL**, while studying **Programming at UTN (Argentina)**.
 
-<p>
-<a href="https://www.linkedin.com/in/marialdanahz/">
-<img src="https://img.shields.io/badge/LinkedIn-María%20Aldana%20Hernández-blue?logo=linkedin&style=for-the-badge">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Aldana%20Hernández-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marialdanahz/)
 
-<a href="mailto:marialdanahz@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-important?style=for-the-badge">
-</a>
-
-<a href="https://github.com/aldimhernandez">
-<img src="https://img.shields.io/badge/GitHub-Projects-black?logo=github&style=for-the-badge">
-</a>
-</p>
+[![Email](https://img.shields.io/badge/Email-marialdanahz%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:marialdanahz@gmail.com)
 
 ---
 
