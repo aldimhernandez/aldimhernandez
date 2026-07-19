@@ -27,22 +27,25 @@ Currently working with **Playwright, TypeScript, GitHub Actions, API Testing and
 
 # ⭐ Featured Projects
 
-## 🎭 Playwright BDD Framework
+## 🎭 Playwright BDD Examples
 
-BDD automation framework built with Playwright, TypeScript and Cucumber following clean architecture and Page Object Model principles.
+Examples and best practices using the official Playwright BDD library, demonstrating scalable BDD automation with Playwright and Cucumber.
 
-**Tech:** Playwright • TypeScript • Cucumber • BDD • POM
+Inspired by the official Playwright BDD documentation and extended with real-world automation scenarios.
 
-➡ Repository:
+🔗 https://vitalets.github.io/playwright-bdd/
+
+➡ Repository
 https://github.com/aldimhernandez/playwright-bdd
 
 ---
 
-## 📊 Playwright Multiple Reporter
+## 📊 Multiple Cucumber HTML Reporter
 
-Custom HTML reporting solution including screenshots, execution evidence and enriched debugging information.
+Example project integrating Playwright BDD with Multiple Cucumber HTML Reporter to generate rich execution reports from Cucumber JSON outputs.
 
-**Tech:** Playwright • TypeScript • GitHub Actions
+Includes screenshots, execution details and report generation using GitHub Actions.
+
 
 ➡ Repository:
 https://github.com/aldimhernandez/pw-bdd-ts-multiple-reporter
@@ -51,7 +54,7 @@ https://github.com/aldimhernandez/pw-bdd-ts-multiple-reporter
 
 ## 🧪 Playwright Framework
 
-End-to-end automation framework demonstrating scalable automation architecture.
+Hands-on project developed while completing an advanced Playwright course, extended with additional improvements and personal experimentation.
 
 **Tech:** Playwright • TypeScript • API Testing
 
