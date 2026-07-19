@@ -1,130 +1,128 @@
 [![Aldi's GitHub Banner](./assets/github_header.png)](https://www.linkedin.com/in/marialdanahz/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=black&color=e4e2dd)](https://www.linkedin.com/in/marialdanahz/)
 
-- 👋 Hi, I’m Aldi!
-- 👀 I’m interested in development and testing.
-- 🎓 Currently studying Programming Technician at UTN, Argentina.
-- 🕹️ Multimedia Arts Technician.
-- 🌱 Always learning and exploring new development technologies.
+# Hi, I'm Aldi 👋
 
-<br>
+**Software Development Engineer in Test (SDET)** focused on building scalable and maintainable test automation solutions.
 
-## &#x1f4c8; GitHub Stats
+I have **4+ years of experience** designing automation frameworks, improving CI/CD pipelines and helping development teams deliver high-quality software through reliable automated testing.
 
-<br>
-  <a href="https://github.com/aldimhernandez">
-    <img 
-      align="center" 
-      style="margin:0.5rem" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldimhernandez&layout=compact&langs_count=10&hide=processing&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" 
-      alt="GitHub Top Langs temporalmente no disponible"
-      />
-  </a>
-<br>
-<br>
-<a href="https://github.com/aldimhernandez">
-  <img
-    align="center"
-    style="margin:0.5rem"
-    src="https://github-readme-stats.vercel.app/api?username=aldimhernandez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34"
-    alt="GitHub Stats temporalmente no disponible"
-  />
+Currently working with **Playwright, TypeScript, GitHub Actions, API Testing and SQL**, while studying **Programming at UTN (Argentina)**.
+
+<p>
+<a href="https://www.linkedin.com/in/marialdanahz/">
+<img src="https://img.shields.io/badge/LinkedIn-María%20Aldana%20Hernández-blue?logo=linkedin&style=for-the-badge">
 </a>
-<br>
 
-<br>
+<a href="mailto:marialdanahz@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-important?style=for-the-badge">
+</a>
 
-## 🚀 Tech Stack
-
-🧑‍💻 Languages & Frameworks
-
-<p> 
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=e4e2dd"/> 
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=e4e2dd"/> 
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=e4e2dd"/> 
-  <br> 
-  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=e4e2dd"/> 
-  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=e4e2dd"/> 
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=e4e2dd"/> 
-  <br> 
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=e4e2dd"/> 
+<a href="https://github.com/aldimhernandez">
+<img src="https://img.shields.io/badge/GitHub-Projects-black?logo=github&style=for-the-badge">
+</a>
 </p>
 
-🧪 Testing Tools
+---
 
-<p> 
-  <img src="https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/Test-Playwright-informational?style=flat&logo=playwright&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/Test-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/Test-Gherkin-informational?style=flat&logo=gherkin&logoColor=white&color=e4e2dd"/>
-  <br> 
-  <img src="https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/Test-SoapUI-informational?style=flat&logo=soapui&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/Test-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/Test-Postman-informational?style=flat&logo=postman&logoColor=white&color=e4e2dd"/>
-  <br> 
-  <img src="https://img.shields.io/badge/Test-BrowserStack-informational?style=flat&logo=browserstack&logoColor=white&color=e4e2dd"/>
-  <br>
-  📝 También he explorado Appium, WebDriverIO, JMeter, Selenium WebDriver, Gatling y K6 en cursos o POCs, y planeo profundizarlos en futuros proyectos.
-</p>
+# 🚀 Professional Highlights
 
-⚙️ DevOps & CI/CD
+- Designed modular automation frameworks using **Playwright + TypeScript**.
+- Reduced flaky tests by refactoring existing automation repositories.
+- Contributed to scaling automation from **4 to 25+ repositories**.
+- Implemented reusable GitHub Actions workflows and automated reporting.
+- Mentored teammates and promoted automation best practices.
+- Experienced in UI, API and Database testing.
 
-<p> 
-  <img src="https://img.shields.io/badge/Platform-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/Platform-OpenShift-informational?style=flat&logo=redhatopenshift&logoColor=white&color=e4e2dd"/>
-</p>
+---
 
-🗂️ Project Management & Collaboration
+# ⭐ Featured Projects
 
-<p> 
-  <img src="https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=jira&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/Tool-Trello-informational?style=flat&logo=trello&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/Tool-Azure_Boards-informational?style=flat&logo=azuredevops&logoColor=white&color=e4e2dd"/> 
-  <br>
-  <img src="https://img.shields.io/badge/Tool-Microsoft_Teams-informational?style=flat&logo=microsoftteams&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white&color=e4e2dd"/>
-</p>
+## 🎭 Playwright BDD Framework
 
-🗄️ Databases
+BDD automation framework built with Playwright, TypeScript and Cucumber following clean architecture and Page Object Model principles.
 
-<p> 
-  <img src="https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/DB-Microsoft_SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=sqlite&logoColor=white&color=e4e2dd"/>
-</p>
+**Tech:** Playwright • TypeScript • Cucumber • BDD • POM
 
-🧰 Tools & Platforms
+➡ Repository:
+https://github.com/aldimhernandez/playwright-bdd
 
-<p> 
-  <img src="https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=e4e2dd"/> 
-  <img src="https://img.shields.io/badge/Tool-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=e4e2dd"/> 
-  <img src="https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=npm&logoColor=white&color=e4e2dd"/> <br> 
-  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=e4e2dd"/> 
-  <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=e4e2dd"/> 
-  <img src="https://img.shields.io/badge/Tool-Git_Bash-informational?style=flat&logo=gnubash&logoColor=white&color=e4e2dd"/> 
-  <br> <img src="https://img.shields.io/badge/Tool-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=e4e2dd"/> 
-  <img src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=linux&logoColor=white&color=e4e2dd"/> 
-  <img src="https://img.shields.io/badge/Tool-SonarQube-informational?style=flat&logo=sonarqube&logoColor=white&color=e4e2dd"/> 
-  <br> <img src="https://img.shields.io/badge/Tool-JSDoc-informational?style=flat&logo=jsdoc&logoColor=white&color=e4e2dd"/> 
-</p>
+---
 
-🧠 Knowledge & Concepts
+## 📊 Playwright Multiple Reporter
 
-<p> 
-  <img src="https://img.shields.io/badge/Methodology-Agile-informational?style=flat&logo=agile&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/Methodology-Scrum-informational?style=flat&logo=scrumalliance&logoColor=white&color=e4e2dd"/>
-  <img src="https://img.shields.io/badge/Concept-OOP-informational?style=flat&logo=java&logoColor=white&color=e4e2dd"/>
-  <br> 
-  <img src="https://img.shields.io/badge/Concept-UML-informational?style=flat&logo=uml&logoColor=white&color=e4e2dd"/> 
-  <img src="https://img.shields.io/badge/Concept-Microservices-informational?style=flat&logo=docker&logoColor=white&color=e4e2dd"/> 
-  <img src="https://img.shields.io/badge/Testing-CRM_Testing-informational?style=flat&logo=microsoftdynamics&logoColor=white&color=e4e2dd"/> 
-  <br> 
-  <img src="https://img.shields.io/badge/Testing-Payment_Gateways-informational?style=flat&logo=stripe&logoColor=white&color=e4e2dd"/> 
-  <img src="https://img.shields.io/badge/Tool-ALM-informational?style=flat&logo=microfocus&logoColor=white&color=e4e2dd"/> 
-  <img src="https://img.shields.io/badge/Analytics-Google_Tag_Manager-informational?style=flat&logo=googletagmanager&logoColor=white&color=e4e2dd"/> 
-  <br> 
-  <img src="https://img.shields.io/badge/Analytics-Google_Analytics-informational?style=flat&logo=googleanalytics&logoColor=white&color=e4e2dd"/> 
-</p>
+Custom HTML reporting solution including screenshots, execution evidence and enriched debugging information.
 
-![Profile Views](https://komarev.com/ghpvc/?username=mbn217&style=flat-square)
+**Tech:** Playwright • TypeScript • GitHub Actions
+
+➡ Repository:
+https://github.com/aldimhernandez/pw-bdd-ts-multiple-reporter
+
+---
+
+## 🧪 Playwright Framework
+
+End-to-end automation framework demonstrating scalable automation architecture.
+
+**Tech:** Playwright • TypeScript • API Testing
+
+➡ Repository:
+https://github.com/aldimhernandez/playwright-project
+
+---
+
+## 📱 Mobile Automation
+
+Appium examples for Android mobile testing.
+
+➡ Repository:
+https://github.com/aldimhernandez/appium-mobile-testing
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+TypeScript • JavaScript • Java • Python
+
+### Automation
+
+Playwright • Cypress • Cucumber • Gherkin • API Testing • SQL
+
+### DevOps
+
+GitHub Actions • Git • GitHub • Azure DevOps
+
+### Practices
+
+Page Object Model • BDD • OOP • CI/CD • Agile • Scrum
+
+---
+
+# 🌱 Currently Learning
+
+- Software Architecture
+- Docker
+- Advanced Playwright
+- Java
+- Design Patterns
+- Programming Technician @ UTN
+
+---
+
+# 🎓 Education
+
+**Programming Technician (In Progress)**
+
+National Technological University (UTN)
+
+**Multimedia Arts Technician**
+
+National University of the Arts (UNA)
+
+---
+
+# 📫 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/marialdanahz
+- 📧 Email: marialdanahz@gmail.com
