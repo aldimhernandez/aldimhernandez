@@ -121,7 +121,6 @@ Agile • Scrum
 
 - Programming Technician @ UTN
 - Artificial Intelligence for Software Development
-- Advanced Playwright
 
 ---
 
